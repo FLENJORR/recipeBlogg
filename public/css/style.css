@@ -1,0 +1,13 @@
+:root {
+    --bs-font-sans-serif: sans-serif;
+}
+
+/* .container-xxl {
+    max-width: 1530px;
+    box-shadow: 10px;
+} */
+
+body {
+    background-image: url("/img/i-like-food.svg");
+    background-color: rgb(243, 243, 243);
+}
